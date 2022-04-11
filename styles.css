@@ -1,0 +1,16 @@
+.wrapper {
+display: grid;
+grid-template-columns: auto auto auto auto;
+gap: 10px;
+padding: 10px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.grid-item {
+    border: 1px solid gray;
+    padding: 80px;
+    text-align: center;
+}
